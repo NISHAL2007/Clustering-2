@@ -1,4 +1,6 @@
-# Clustering-2
+# Clustering
+
+## Application : https://huggingface.co/spaces/Nishal19/Customer-Clustering
 
 A comprehensive clustering analysis project featuring an interactive Gradio web application for data visualization and K-Means clustering with multiple optimization techniques.
 
@@ -232,7 +234,6 @@ NISHAL2007
 
 For questions or issues:
 - Open an issue in the GitHub repository
-- Contact: [Your contact information]
 
 ---
 
